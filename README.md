@@ -181,7 +181,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   Lcd_cursor(&lcd,0,0);
   Lcd_string(&lcd,"DEPT AI&ML");
   Lcd_cursor(&lcd,1,0);
-  Lcd_string(&lcd,"Panduru Somu");
+  Lcd_string(&lcd,"Somu reddy");
 ~~~
 
 ## Output screen shots of proteus  :
